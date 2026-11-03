@@ -166,10 +166,6 @@ function App() {
                 Our Story <Arrow diagonal />
               </a>
             </div>
-            <div className="hero-note">
-              <span>01</span>
-              <p>Seasonless pieces.<br />Endless possibilities.</p>
-            </div>
           </div>
           <div className="hero-visual">
             <div className="hero-image-frame">
