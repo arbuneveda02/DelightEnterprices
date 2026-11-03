@@ -1,0 +1,10 @@
+{
+  "description": "Explore DelightEnterprices’ premium clothing collections, new arrivals, and style inspiration to find comfortable, timeless fashion for everyday wear.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
